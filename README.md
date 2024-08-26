@@ -63,7 +63,9 @@ Purpose: This step defines how Windows should display and handle **files with th
       Enter the path to your **h.ico file**, e.g., `C:\Program Files\H++\h.ico`.
 
 Explanation: The **H++ File** key defines what type of file *.hhh* is (*e.g., "H++ File"*) and specifies a **custom icon** to display. The **DefaultIcon** key within it points to the actual icon file that will be used for **.hhh files**.
-   
+
+# Linux
+Linux install coming soon if i get bored enough to stop procrastinating :/
 # Example Code
 
 ### Hello World
