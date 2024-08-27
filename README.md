@@ -15,6 +15,7 @@ Move the H++ folder to the place where you want to keep it, I put mine in progra
 
 ### Step 3
 **In this step we make h++ globally accesible so you can run it from any directory in your terminal**
+
 Add the path to the H++ folder into your path environment variable.
 * If you dont know how to *edit your environment variables*, heres how.
     1. In the start menu, search **environment variables** and click **Edit the system environment variables**. Once in the menu, click the **Environment Variables** button and a new menu will pop up.
