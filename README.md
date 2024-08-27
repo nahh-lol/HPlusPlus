@@ -18,7 +18,8 @@ Move the H++ folder to the place where you want to keep it, I put mine in progra
 
 Add the path to the H++ folder into your path environment variable.
 * If you dont know how to *edit your environment variables*, heres how.
-    1. In the start menu, search **environment variables** and click **Edit the system environment variables**. Once in the menu, click the **Environment Variables** button and a new menu will pop up.
+    1.  In the start menu, search **environment variables** and click **Edit the system environment variables**. Once in the menu, click the **Environment Variables** button and a new menu will pop up.
+    
     2. Make a new variable called `HPP_PATH` under **System variables** and set the value to be the path to your H++. Click ok to exit all the menus and your done.
     
 ### Step 4
