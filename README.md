@@ -65,7 +65,9 @@ Purpose: This step defines how Windows should display and handle **files with th
 Explanation: The **H++ File** key defines what type of file *.hhh* is (*e.g., "H++ File"*) and specifies a **custom icon** to display. The **DefaultIcon** key within it points to the actual icon file that will be used for **.hhh files**.
 
 # Linux
-Linux install coming soon if i get bored enough to stop procrastinating :/
+### I'm not gonna explain in too much detail, because, if your on linux, you probably know what your doing already anyways. 
+If your on linux, just put the H++ folder in your `usr/local/bin` folder, make it executable, and thats about it I think.
+
 # Example Code
 
 ### Hello World
