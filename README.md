@@ -11,15 +11,15 @@ The install instructions for windows
 Download the repo
 
 ### Step 2
-Move the H++ folder to the place where you want to keep it, I put mine in program files, so the path is: `C:\Program Files\H++`. This folder should have the `h.py`, `h.ico`, and `h.bat` files.
+Move the H++ folder to the place where you want to keep it, I put mine in program files, so the path for me is: `C:\Program Files\H++`. This folder should have the `h.py`, `h.ico`, and `h.bat` files.
 
 ### Step 3
 **In this step we make h++ globally accesible so you can run it from any directory in your terminal**
 Add the path to the H++ folder into your path environment variable.
 * If you dont know how to *edit your environment variables*, heres how.
     1. In the start menu, search **environment variables** and click **Edit the system environment variables**. Once in the menu, click the **Environment Variables** button and a new menu will pop up.
-    2. Look for path under **System variables**. Click on it and then the edit button. *Again,* a new window will pop up and in there you should click the **New** button. After that, paste in the path to your **H++**. When done, click ok and exit the menus.
-
+    2. Make a new variable called `HPP_PATH` under **System variables** and set the value to be the path to your H++. Click ok to exit all the menus and your done.
+    
 ### Step 4
 **SKIP THIS STEP IF YOU ARE UNCOMFORTABLE MESSING WITH YOUR REGISTRY**
 Okay, this one is optional but if you dont do this my icon file will go to waste 😭. Anyways, to give the `.hhh` files a **Custom Icon**, remember that `h.ico` file from earlier? Well we're finally gonna use it! 
